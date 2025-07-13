@@ -13,3 +13,6 @@ Once you have an API key and model, add them to a .env file.
 Also add other variables relevant to your model like MAX_TOKENS and TEMPERATURE.
 
 Once this is all completed the application should run just fine.
+
+Original Resource: https://medium.com/@rajgpt630/langchain-groq-chatbot-development-setup-tutorial-0be284359b75
+(requirements.txt are not up to date)
